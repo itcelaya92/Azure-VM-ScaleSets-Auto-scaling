@@ -1,5 +1,6 @@
 # Azure-VM-ScaleSets-Auto-scaling
 Create Azure Virtual Machine Scale Sets Autoscaling with Terraform
+https://youtu.be/7BMxoNkXLBc
 
 ## VMSS Autoscaling:
 #### 1- Default Profile
